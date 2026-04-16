@@ -10,9 +10,9 @@ namespace RK2022
             double a, b, c;
 
             Console.WriteLine("ax^2+bx+c=0");
-            Console.WriteLine("Podaj a");
+            Console.WriteLine("Podaj a(x^2)");
             a = Double.Parse(Console.ReadLine());
-            Console.WriteLine("Podaj b");
+            Console.WriteLine("Podaj b(x)");
             b = Double.Parse(Console.ReadLine()); 
             Console.WriteLine("Podaj c");
             c = Double.Parse(Console.ReadLine());
